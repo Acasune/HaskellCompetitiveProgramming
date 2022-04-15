@@ -2,3 +2,6 @@ packages:
 - .
 resolver:
   compiler: ghc-8.10
+extra-deps:
+- primitive-0.7.3.0@sha256:6b28a1c0572f5ca50597ba8388aeade21515842969ae192cdc6bfca81367bf56,2951
+- vector-0.12.3.1@sha256:040210919e5ce454dcee3320f77803da3dbda579c8428dc25ff0155732234808,7946
